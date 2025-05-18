@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="logo2.png" alt="Grave Rato Logo" width="200">
+  
+  <img src="Logo2.png" alt="Grave Rato Logo" width="200">
+  
 </div>
 
 # Grave Rato Backend
