@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="Logo2.png" alt="Grave Rato Logo" width="200">
+  <img src="Logo.jpeg" alt="Grave Rato Logo" width="200">
   
 </div>
 
